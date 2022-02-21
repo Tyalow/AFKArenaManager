@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32014.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AFKArenaManager", "AFKArenaManager\AFKArenaManager.csproj", "{007E73E3-77F9-43D5-A935-38C38C102AE1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{007E73E3-77F9-43D5-A935-38C38C102AE1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{007E73E3-77F9-43D5-A935-38C38C102AE1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{007E73E3-77F9-43D5-A935-38C38C102AE1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{007E73E3-77F9-43D5-A935-38C38C102AE1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {920B3566-440C-4881-B005-7AE56558C518}
+	EndGlobalSection
+EndGlobal
